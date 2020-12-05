@@ -18,6 +18,5 @@ After the whole thing is done it will tell you that "our employee will be shortl
 <br>
 After the whole thing is done we will get an automated mail in our given mail id in automated bot for contacing HushCode and for Referral link also
 <br>
-<img src="screenshots/4.png">
 <br>
 <img src="screenshots/7.png">
