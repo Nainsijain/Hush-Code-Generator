@@ -10,6 +10,10 @@ In the right end of the webpage you will get a Automated Bot which will take the
 <br>
 We need to provide all the information for the referral code to be generated for the particular service as shown below
 <br>
+<br>
+NOTE: PLEASE TRY IT ONCE TO GET THE GLIMPSE OF THE WORKING WEBSITE AND THE BOT FOR THE GENERATION OF REFERRAL CODE.
+MAKE SURE YOU GIVE YOUR VALID EMAIL ID SUCH THAT YOU WILL GET THE REFERRAL CODE AS A SAMPLE TO THE EMAIL PROVIDED IN THE AUTOMATED BOT QUESTION SECTION
+<br>
 <img src="screenshots/2.png">
 <br>
 After the whole thing is done it will tell you that "our employee will be shortly communicating with you" as shown below
