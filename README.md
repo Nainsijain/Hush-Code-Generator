@@ -20,3 +20,11 @@ After the whole thing is done we will get an automated mail in our given mail id
 <br>
 <br>
 <img src="screenshots/7.png">
+<br>
+In the backend we can get every response by the user interaction with the bot which will help us what type of things that most of the user wants
+<br>
+<br>
+<img src="screenshots/4.png">
+<br>
+<img src="screenshots/5.png">
+<br>
