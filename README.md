@@ -25,13 +25,7 @@ After the whole thing is done we will get an automated mail in our given mail id
 <br>
 <img src="screenshots/7.png">
 <br>
-In the backend we can get every response by the user interaction with the bot which will help us what type of things that most of the user wants
-<br>
-<br>
-<img src="screenshots/4.png">
-<br>
-<img src="screenshots/5.png">
-<br><br>
+
 Finally under the Code Generator section there will be a Google form in which they need to type the referral code.<br>
 If the Referral code matches with the given referral code sent to the user, then the user will get a valid discount
 <br>
