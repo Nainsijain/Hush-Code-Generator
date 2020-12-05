@@ -27,4 +27,8 @@ In the backend we can get every response by the user interaction with the bot wh
 <img src="screenshots/4.png">
 <br>
 <img src="screenshots/5.png">
+<br><br>
+Finally under the Code Generator section there will be a Google form in which they need to type the referral code.<br>
+If the Referral code matches with the given referral code sent to the user, then the user will get a valid discount
 <br>
+Finally we have a feedback section for generating the feedback of the users and hence valuable for any of the companies.<br>
